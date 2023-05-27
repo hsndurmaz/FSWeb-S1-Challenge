@@ -1,163 +1,168 @@
 // eslint-disable-next-line no-unused-vars
 const fenomenler = [
   {
-    "number": 1,
-    "profile": "Instagram",
-    "followers": 539446645,
-    "posts": 7202,
-    "platform": "Instagram"
+    number: 1,
+    profile: "Instagram",
+    followers: 539446645,
+    posts: 7202,
+    platform: "Instagram",
   },
   {
-    "number": 2,
-    "profile": "Cristiano Ronaldo",
-    "followers": 473864939,
-    "posts": 3338,
-    "platform": "Instagram"
+    number: 2,
+    profile: "Cristiano Ronaldo",
+    followers: 473864939,
+    posts: 3338,
+    platform: "Instagram",
   },
   {
-    "number": 3,
-    "profile": "Kylie",
-    "followers": 364542529,
-    "posts": 6935,
-    "platform": "Instagram"
+    number: 3,
+    profile: "Kylie",
+    followers: 364542529,
+    posts: 6935,
+    platform: "Instagram",
   },
   {
-    "number": 4,
-    "profile": "Leo Messi",
-    "followers": 355790796,
-    "posts": 890,
-    "platform": "Instagram"
+    number: 4,
+    profile: "Leo Messi",
+    followers: 355790796,
+    posts: 890,
+    platform: "Instagram",
   },
   {
-    "number": 5,
-    "profile": "Selena Gomez",
-    "followers": 341579063,
-    "posts": 1828,
-    "platform": "Instagram"
+    number: 5,
+    profile: "Selena Gomez",
+    followers: 341579063,
+    posts: 1828,
+    platform: "Instagram",
   },
   {
-    "number": 1,
-    "profile": "Barack Obama",
-    "followers": 132473746,
-    "posts": 16563,
-    "platform": "Twitter"
+    number: 1,
+    profile: "Barack Obama",
+    followers: 132473746,
+    posts: 16563,
+    platform: "Twitter",
   },
   {
-    "number": 2,
-    "profile": "Justin Biber",
-    "followers": 114165664,
-    "posts": 31371,
-    "platform": "Twitter"
+    number: 2,
+    profile: "Justin Biber",
+    followers: 114165664,
+    posts: 31371,
+    platform: "Twitter",
   },
   {
-    "number": 3,
-    "profile": "KATY PERRY",
-    "followers": 108950737,
-    "posts": 11715,
-    "platform": "Twitter"
+    number: 3,
+    profile: "KATY PERRY",
+    followers: 108950737,
+    posts: 11715,
+    platform: "Twitter",
   },
   {
-    "number": 4,
-    "profile": "Rihanna",
-    "followers": 106989611,
-    "posts": 10632,
-    "platform": "Twitter"
+    number: 4,
+    profile: "Rihanna",
+    followers: 106989611,
+    posts: 10632,
+    platform: "Twitter",
   },
   {
-    "number": 5,
-    "profile": "Elon Musk",
-    "followers": 102819963,
-    "posts": 18921,
-    "platform": "Twitter"
+    number: 5,
+    profile: "Elon Musk",
+    followers: 102819963,
+    posts: 18921,
+    platform: "Twitter",
   },
   {
-    "number": 1,
-    "profile": "Ninja",
-    "followers": 18296006,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 1,
+    profile: "Ninja",
+    followers: 18296006,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 2,
-    "profile": "auronplay",
-    "followers": 13377575,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 2,
+    profile: "auronplay",
+    followers: 13377575,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 3,
-    "profile": "Rubius",
-    "followers": 12524137,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 3,
+    profile: "Rubius",
+    followers: 12524137,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 4,
-    "profile": "Tfue",
-    "followers": 11145556,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 4,
+    profile: "Tfue",
+    followers: 11145556,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 5,
-    "profile": "shroud",
-    "followers": 10244388,
-    "posts": "NA",
-    "platform": "Twitch"
+    number: 5,
+    profile: "shroud",
+    followers: 10244388,
+    posts: "NA",
+    platform: "Twitch",
   },
   {
-    "number": 1,
-    "profile": "charli damelio",
-    "followers": 141200000,
-    "posts": 2211,
-    "platform": "TikTok"
+    number: 1,
+    profile: "charli damelio",
+    followers: 141200000,
+    posts: 2211,
+    platform: "TikTok",
   },
   {
-    "number": 2,
-    "profile": "Khabane lame",
-    "followers": 139700000,
-    "posts": 1055,
-    "platform": "TikTok"
+    number: 2,
+    profile: "Khabane lame",
+    followers: 139700000,
+    posts: 1055,
+    platform: "TikTok",
   },
   {
-    "number": 3,
-    "profile": "Bella Poarch",
-    "followers": 89900000,
-    "posts": 470,
-    "platform": "TikTok"
+    number: 3,
+    profile: "Bella Poarch",
+    followers: 89900000,
+    posts: 470,
+    platform: "TikTok",
   },
   {
-    "number": 4,
-    "profile": "Addison Rae",
-    "followers": 87700000,
-    "posts": 1683,
-    "platform": "TikTok"
+    number: 4,
+    profile: "Addison Rae",
+    followers: 87700000,
+    posts: 1683,
+    platform: "TikTok",
   },
   {
-    "number": 5,
-    "profile": "Will Smith",
-    "followers": 72200000,
-    "posts": 136,
-    "platform": "TikTok"
+    number: 5,
+    profile: "Will Smith",
+    followers: 72200000,
+    posts: 136,
+    platform: "TikTok",
   },
 ];
 
-
+function kopyala() {
+  var kopy = fenomenler.slice();
+  return kopy;
+}
 /* Görev 1 (otomatik kontrol testi yapılmayacak):
 Aşağıdakileri konsolda gösterim (console.log) işlemi gerçekleştirerek, yukarıda verilen fenomenler dizisindeki verilere erişim alıştırması yapın:
 
 (işlev yazmanıza gerek yok) */
 
 //(1) Dizideki ilk fenomen (0. dizin) profil (profile) adı
-
+console.log(fenomenler[0].profile);
 
 //(2) Dizideki üçüncü fenomenin (2. dizin) takipçi (followers) sayısı
-
+console.log(fenomenler[2].followers);
 
 /* Görev 2 (otomatik kontrol testi yapılmayacak):
 (işlev yazmanıza gerek yok)
 Fenomenler dizisinde bir yazım hatası var 😱 7. sıradaki fenomen 'Justin Bieber' ın soyismi 'Biber' olarak yanlış yazılmış. Bu sorunu düzeltin ve çalışmanızı kontrol etmek için console.log() yapın.
 
+*/ var biber = (fenomenler[6].profile = "Justin Bieber");
+console.log(biber);
 
 /*  Görev 3:
 Aşağıdaki işlemleri yapmak için indekseGoreFenomen işlevini kullanın:
@@ -168,11 +173,13 @@ Aşağıdaki işlemleri yapmak için indekseGoreFenomen işlevini kullanın:
 NOT: DÖNDÜĞÜNÜZ DİZİN YUKARIDAKİ BİÇİMLE EŞLEŞMESİ GEREKİR, YA DA TESTİ GEÇMEYECEKTİR!
 ÖRNEK: fenomenler dizisi ve 3 sayısı ile indekseGoreFenomen çağrılırsa, `3. indekste bulunan fenomen: Leo Messi' */
 
-function indekseGoreFenomen(/*kod*/) {
-  /*kod*/
+function indekseGoreFenomen(fenomenler, index) {
+  var fnm = fenomenler;
+  var dz = fnm[index].profile;
+  return `${index}. indekste bulunan fenomen: ${dz}`;
 }
 
-
+console.log(indekseGoreFenomen(fenomenler, 3));
 
 /*  Görev 4:
 Aşağıdakileri yapmak için profilListesi'ni kullanın:
@@ -182,11 +189,16 @@ Aşağıdakileri yapmak için profilListesi'ni kullanın:
 🌟 Dönüş ÖRNEĞİ: ["Instagram", "Cristiano Ronaldo", "Kylie"....]
 */
 
-function profilListesi(/*kod*/) {
-  /*kod*/
+function profilListesi(fenomenler) {
+  var fnm = fenomenler;
+  var newArr = [];
+  for (var i = 0; i < fnm.length; i++) {
+    newArr.push(fnm[i].profile);
+  }
+  return newArr;
 }
 
-
+console.log(profilListesi(fenomenler));
 
 /* Görev 5:
 Aşağıdakileri yapmak için fenomenSil'i kullanın:
@@ -197,11 +209,11 @@ Aşağıdakileri yapmak için fenomenSil'i kullanın:
 5. Ortaya çıkan diziyi döndürün
 
 ÖRNEK: fenomenSil işlevi fenomenler dizisi ve 0 indeks sayısı ile çağrılırsa, veri kümemizden 'Instagram' kaldırılmış olarak döndürür. */
-function fenomenSil(/*kod*/) {
-  /*kod*/
+function fenomenSil(fenomenler, index) {
+  var fenom = fenomenler;
+  fenom.splice(index, 1);
+  return fenom;
 }
-
-
 
 /* Görev 6:
 Aşağıdakileri yapmak için fenomenEkle'i kullanın:
@@ -220,11 +232,22 @@ Aşağıdakileri yapmak için fenomenEkle'i kullanın:
 
 ÖRNEK: fenomenEkle(fenomenler, 6, "Workintech", 10000000, 2022, "Instagram") çağrıldığında dizinin sonuna yukarıdaki nesne en sona eklenerek yeni fenomenler dizisini döndürmelidir. */
 
-function fenomenEkle(/*kod*/) {
-  /*kod*/
+function fenomenEkle(fenomenler, number, profile, followers, posts, platform) {
+  var addF = fenomenler.slice();
+  const workintechObj = {
+    number: number,
+    profile: profile,
+    followers: followers,
+    posts: posts,
+    platform: platform,
+  };
+  addF.push(workintechObj);
+
+  return addF;
 }
-
-
+console.log(
+  fenomenEkle(fenomenler, 6, "Workintech", 10000000, 2022, "Instagram")
+);
 /* Görev 7:
 Aşağıdakileri yapmak için enFenomenler'yi kullanın:
 1. ilk parametre olarak fenomenler dizisini alın
@@ -233,11 +256,18 @@ Aşağıdakileri yapmak için enFenomenler'yi kullanın:
 ÖRNEK: enFenomenler(fenomenler) çağrıldığında sonuç olarak ["Instagram", "Cristiano Ronaldo", ... "Khabane lame"] dönemelidir
 */
 
-function enFenomenler(/*kod*/) {
-  /*kod*/
+function enFenomenler(fenomen) {
+  var newArr3 = kopyala(fenomen);
+  var enFn = [];
+  for (var i = 0; i < newArr3.length; i++) {
+    if (newArr3[i].followers > 100000000) {
+      enFn.push(newArr3[i].profile);
+    }
+  }
+  return enFn;
 }
 
-
+console.log(enFenomenler(fenomenler));
 /* Görev 8:
 Aşağıdakileri yapmak için fenomenGonderimSayisi'nı kullanın:
 1. ilk parametre olarak fenomenler dizisini alın
@@ -247,11 +277,17 @@ Aşağıdakileri yapmak için fenomenGonderimSayisi'nı kullanın:
 ÖRNEK: fenomenGonderimSayisi(fenomenler, 'Will Smith') çağrıldığında "136" dönmelidir
 */
 
-function fenomenGonderimSayisi(/*kod*/){
-  /*kod*/
+function fenomenGonderimSayisi(fenomen, profile) {
+  var newArr4 = kopyala(fenomen);
+  for (var i = 0; i < newArr4.length; i++) {
+    if (newArr4[i].profile == profile) {
+      var result = newArr4[i].posts;
+    }
+  }
+  return result;
 }
 
-
+console.log(fenomenGonderimSayisi(fenomenler, "Will Smith"));
 
 /* Görev 9:
 Aşağıdakileri yapmak için platformaGoreCokGonderiYapanFenomen'ni kullanın:
@@ -263,21 +299,26 @@ Not: Gönderi sayısı belli olmayan (NA) hesaba katmayın.
 
 Örnek: platformaGoreCokGonderiYapanFenomen(fenomenler, 'TikTok') çağrıldığında "charli damelio" dönmelidir
 */
-
-function platformaGoreCokGonderiYapanFenomen(/*kod*/){
-  /*kod*/
+function platformaGoreCokGonderiYapanFenomen(fenom, platf) {
+  var lastArr = kopyala(fenom);
+  var filtArr = [];
+  for (var i = 0; i < lastArr.length; i++) {
+    if (lastArr[i].platform.includes(platf)) {
+      filtArr.push(lastArr[i]);
+    }
+  }
+  var result = filtArr.sort((x, y) => y.posts - x.posts);
+  return result[0].profile;
 }
 
-
+console.log(platformaGoreCokGonderiYapanFenomen(fenomenler, "Twitter"));
 
 /* ***** GÖREVLERİN SONU ***** */
 
-
-
 /*Bu satırdan sonra koda dokunmayın! */
 function sa() {
-  console.log('çalışıyor');
-  return 'as';
+  console.log("çalışıyor");
+  return "as";
 }
 sa();
 /*Bu satırdan sonra koda dokunmayın! */
@@ -289,5 +330,5 @@ module.exports = {
   fenomenEkle,
   enFenomenler,
   fenomenGonderimSayisi,
-  platformaGoreCokGonderiYapanFenomen
-}
+  platformaGoreCokGonderiYapanFenomen,
+};
